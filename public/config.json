@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "e6f7fdc7-df56-4297-b2fd-6e5a1dc8fd1e",
+      "applicationExtensionKey": "1de61027-6d8e-4aec-923f-1fb9efa96fc3",
       "save": {
         "url": "https://ragsdale-customjbactivity.herokuapp.com/journeybuilder/save",
           "verb": "POST",
